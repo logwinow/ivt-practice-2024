@@ -28,8 +28,8 @@
 
 
 * ### **Задание на производственную практику** 
-![Задание на производственную практику](https://github.com/KwaziLi/Practika8/assets/78913919/44b1a7d9-3ca9-4ceb-aac2-572387cccf57)
+![Задание на производственную практику](http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Flogwinow%2Fivt-practice-2024%2Fblob%2Fmain%2F%25D0%25B7%25D0%25B0%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5%2520%25D0%25BD%25D0%25B0%2520%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D0%25BA%25D1%2583.docx&4&0)
 
 * ### **Отчёт о прохождении производственной практики** 
-![Отчёт о прохождении производственной практики](https://github.com/KwaziLi/Practika8/assets/78913919/f5ed234c-2c95-48f4-8f3f-8be4532824d3)
+![Отчёт о прохождении производственной практики](http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Flogwinow%2Fivt-practice-2024%2Fblob%2Fmain%2F%25D0%25BE%25D1%2582%25D1%2587%25D0%25B5%25D1%2582%2520%25D0%25BF%25D0%25BE%2520%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B5.docx&4&0)
 
